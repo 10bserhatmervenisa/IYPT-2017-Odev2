@@ -23,65 +23,19 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
++İki tane 60 wattlık amplün 40 wattlık 3 ampülden daha parlak yandığı söylenir. Bunun doğruluğunu test etmek amacıyla 2 tane 60 wattlık almpül ve 3 tane 40wattlık ampül alınacaktır önce 2 tane 60 wattlık ampülün parlaklığını ölçmek için 2 deneyde de kontrol edilen degişken olarak odanın ışık şiddeti olacak ve ampülün yanına konulan bir cetvelin gölge boyu ölcülerek not edilecektir. Daha sonra aynı işlem 3 tane 40 wattlik ampül için yapılacak ve gölge boyu not edilecektir. Gölge boyu uzun olan daha az parlak yanmış olacağı için bu sözün doğruluğunu test etmiş olacağız. Devredeki ufak bir değişimin ampül ömrüne etkisini ise önce üreteç olarak adlandırdığımız pil veya bataryadan 2 tane alınacak önce devreye seri bağlanacak daha sonra paralel bağlanarak ampül ömrü ölçülecektir. Bir diğer değişiklik de 2 tane 40 wattlık ampülü bağladığımız kablonun boyu uzatılarak ampül ömrü ölçülecektir.+Bir diğer değişiklik 2 tane 40 wattlık ampül deneyinde 2 pil alarak önce düz sonra ters bağlanarak ampül ömrü ölçülecektir. Bu deneylerin sonucunda kablo uzunluğunun ,üretecin seri veya paralel bağlanmasının üretecin düz veya ters bağlanmasının ampül ömrüne etkisi olup olmadığı ve 2 tane 60 wattlık ampülün 3 tane 40 wattlik ampülden daha parlak yanip yanmadığı denenerek sonuçlar gözlenecektir.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
-# Materyal ve Yöntem (Experimental Setup)
+ Akkor tipi ampuller, bazı madenlerin elektrik akımı etkisiyle aşırı ısınarak akkor haline gelmesi özelliğinen yararlanılarak yapılır. Ampul teli olarak en başta tungsten olmak üzere karbon, osmium ve tantalumdur.
+   Çok ince bir tungsten teli üzerinden elektrik akımı geçirilince, telin sıcaklığı 2.600 °C’nin üstüne kadar çıkar. Bu sıcaklıkta ince tel akkor haline gelerek ışık verir. Telin sıcaklıktan eriyip kül olmaması için ampulun içi bir gazla doldurulur. Verimi artırmak için iç içe helis biçiminde ince bir tel sargı kullanılır. Böylece gaz içindeki ısı kaybı azaltılmış olur. Floresan lambalar, ısı yoluyla değil de elektrik akımıyla uyarılan maden atomlarının elektromanyetik radyasyon yayma özelliklerinden yararlanarak ışık verirler.
+   Kaynakça: http://www.yardimcikaynaklar.com/ampullerin-parlakligi-devrenin-direncine-bagli-midir/
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+. 
+# Materyal ve Yöntem (Experimental
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
+2 tane 60 W'lık ampulün 3 tane 40 W'lık ampulden daha parlak yandığı düşünülür. Biz de bu olguyu araştırdık. Bunun için de 5 tane duy, 2 tane fiş ,3 tane 40 Watt'lık ve 2 tane 60 Watt'lık ampuller kullandık. 2 tane 60 Watt'lık ampulü ve 3 tane 40 Wattlık ampulü birbirlerine seri bağlayarak 2 ayrı devre oluşturduk. Bu devrelerin önüne parfüm şişesi koyarak şişenin gölge boyunu ölçtük. 2 tane 60 Watt'lık ampulde daha uzun gölge elde ettik. Buradan da 2 tane 60 Wattlık ampulün daha parlak olduğu sonucunu çıkardık.
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
-
+ 
+Ampullerin dirençten oluşur. Telin elektriğe karşı gösterdiği dirençle birlikte ışık oluşur. Bu yüzden de toplam voltaj eşit olsa da ampuller seri bağlandığında daha az sayıda ampulden oluşan devre daha çok ışık verir, ışık enerjisi ısıya daha az dönüşür. Bu yüzden de 3 tane 40 Wattlık ampul yerine 2 tane 60 Wattlık ampul kullanmak daha verimlidir
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
